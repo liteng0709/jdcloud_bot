@@ -18,6 +18,7 @@ GitHub Actions使用模板
 2. 本地调试请修改`config.py`文件
 3. 远端调试请在`github项目 - Settings - Secrets - Actions`中配置config文件中需要的相关ID
 4. fork后必须修改一下文件，才能执行定时任务, 可修改 `README.MD`, 添加一个空格+1
+5. 更新`Secrets`后，必须重新提交代码才会生效
 
 
 ## 3. 配置`.github/main.yml`
