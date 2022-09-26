@@ -21,7 +21,7 @@ DEFAULT_HEADERS = {
 """
 调试 wskey
 """
-DEFAULT_WSKEY = os.environ["WSKEY"]
+DEFAULT_WSKEY = os.environ["DEFAULT_WSKEY"]
 # DEFAULT_WSKEY = ''
 
 """
